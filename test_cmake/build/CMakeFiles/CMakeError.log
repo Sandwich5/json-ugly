@@ -1,0 +1,423 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+Access is denied
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_09f7f/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_09f7f.dir\build.make CMakeFiles/cmTC_09f7f.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_09f7f.dir/CMakeCXXCompilerABI.cpp.obj
+C:\MinGW\bin    -o CMakeFiles\cmTC_09f7f.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp"
+process_begin: CreateProcess(NULL, C:\MinGW\bin -o CMakeFiles\cmTC_09f7f.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp", ...) failed.
+make (e=5): Access is denied.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_09f7f.dir\build.make:77: CMakeFiles/cmTC_09f7f.dir/CMakeCXXCompilerABI.cpp.obj] Error 5
+mingw32-make.exe[1]: Leaving directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_09f7f/fast] Error 2
+
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_bf32e/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_bf32e.dir\build.make CMakeFiles/cmTC_bf32e.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_bf32e.dir/testCXXCompiler.cxx.obj
+C:\MinGW\bin    -o CMakeFiles\cmTC_bf32e.dir\testCXXCompiler.cxx.obj -c "D:\C projects\json\test_cmake\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+process_begin: CreateProcess(NULL, C:\MinGW\bin -o CMakeFiles\cmTC_bf32e.dir\testCXXCompiler.cxx.obj -c "D:\C projects\json\test_cmake\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx", ...) failed.
+make (e=5): Access is denied.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_bf32e.dir\build.make:77: CMakeFiles/cmTC_bf32e.dir/testCXXCompiler.cxx.obj] Error 5
+mingw32-make.exe[1]: Leaving directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_bf32e/fast] Error 2
+
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+Access is denied
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_ecc38/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_ecc38.dir\build.make CMakeFiles/cmTC_ecc38.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ecc38.dir/CMakeCXXCompilerABI.cpp.obj
+C:\MinGW\bin    -o CMakeFiles\cmTC_ecc38.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp"
+process_begin: CreateProcess(NULL, C:\MinGW\bin -o CMakeFiles\cmTC_ecc38.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp", ...) failed.
+make (e=5): Access is denied.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_ecc38.dir\build.make:77: CMakeFiles/cmTC_ecc38.dir/CMakeCXXCompilerABI.cpp.obj] Error 5
+mingw32-make.exe[1]: Leaving directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_ecc38/fast] Error 2
+
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_2b255/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_2b255.dir\build.make CMakeFiles/cmTC_2b255.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2b255.dir/testCXXCompiler.cxx.obj
+C:\MinGW\bin    -o CMakeFiles\cmTC_2b255.dir\testCXXCompiler.cxx.obj -c "D:\C projects\json\test_cmake\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+process_begin: CreateProcess(NULL, C:\MinGW\bin -o CMakeFiles\cmTC_2b255.dir\testCXXCompiler.cxx.obj -c "D:\C projects\json\test_cmake\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx", ...) failed.
+make (e=5): Access is denied.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_2b255.dir\build.make:77: CMakeFiles/cmTC_2b255.dir/testCXXCompiler.cxx.obj] Error 5
+mingw32-make.exe[1]: Leaving directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_2b255/fast] Error 2
+
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags:  
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+Access is denied
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: C:/MinGW/bin 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+Access is denied
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_3aebb/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_3aebb.dir\build.make CMakeFiles/cmTC_3aebb.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3aebb.dir/CMakeCXXCompilerABI.cpp.obj
+C:\MinGW\bin    -o CMakeFiles\cmTC_3aebb.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp"
+process_begin: CreateProcess(NULL, C:\MinGW\bin -o CMakeFiles\cmTC_3aebb.dir\CMakeCXXCompilerABI.cpp.obj -c "C:\Program Files\CMake\share\cmake-3.24\Modules\CMakeCXXCompilerABI.cpp", ...) failed.
+make (e=5): Access is denied.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_3aebb.dir\build.make:77: CMakeFiles/cmTC_3aebb.dir/CMakeCXXCompilerABI.cpp.obj] Error 5
+mingw32-make.exe[1]: Leaving directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_3aebb/fast] Error 2
+
+
+
+
+Determining if the CXX compiler works failed with the following output:
+Change Dir: D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_27a64/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_27a64.dir\build.make CMakeFiles/cmTC_27a64.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_27a64.dir/testCXXCompiler.cxx.obj
+C:\MinGW\bin    -o CMakeFiles\cmTC_27a64.dir\testCXXCompiler.cxx.obj -c "D:\C projects\json\test_cmake\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+process_begin: CreateProcess(NULL, C:\MinGW\bin -o CMakeFiles\cmTC_27a64.dir\testCXXCompiler.cxx.obj -c "D:\C projects\json\test_cmake\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx", ...) failed.
+make (e=5): Access is denied.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_27a64.dir\build.make:77: CMakeFiles/cmTC_27a64.dir/testCXXCompiler.cxx.obj] Error 5
+mingw32-make.exe[1]: Leaving directory 'D:/C projects/json/test_cmake/build/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_27a64/fast] Error 2
+
+
+

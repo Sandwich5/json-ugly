@@ -1,0 +1,13 @@
+{
+    "test" : 
+    { 
+        "working" : true,
+        "version" : "1.0.0"
+    },
+    "specs" :
+    [
+        "reading",
+        "writing",
+        "verifing"
+    ]
+}
